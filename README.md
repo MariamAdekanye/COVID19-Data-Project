@@ -21,7 +21,7 @@ The problems to be solved are:
 
 --------------
 # Data Sourcing
-The data was gotten from @oyinbooke github page with respect to the 30 days of learning. Here is the link to the dataset ![](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data)
+The data was gotten from @oyinbooke github page with respect to the 30 days of learning. Here is the link to the dataset ![click here](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data)
 It contains three difeerent data for confirmed cases, death cases and recovered cases
 
 
@@ -56,7 +56,21 @@ It was then visualized using the pivot chart in excel
 ![alt text](https://github.com/MariamAdekanye/COVID19-Data-Project/blob/main/2022-07-19%20(7).png)
 
 
+![image](https://user-images.githubusercontent.com/96249899/179721223-93ced50c-82b7-4c08-9f3a-08035acf3ea9.png)
 
+* 
 
 -----------
-# Findings and Recommendation
+# Findings 
+From the dashboard, 
+* The number of confirmed cases is far more that the death cases, thus the death rate is 1.70%
+* It is noted that US has the most prevalence of both confirmed and death cases.
+* The confirmed cases gradually increased from the year 2020 with high prevalence in 2022
+* During the first half of the year, there are more confirmed cases
+* The least country affected is North Korea
+* There are some countries that are yet to have any record of death cases such as Antarctica, Holy See, Marshall Islands and Micronesia
+
+# Reccommendation
+* Vaccines should be introduced to countries with high prevalence of Covid19
+* The should be sensitized about precautionary measures to take in order to stay safe and manage it well.
+
