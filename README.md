@@ -21,7 +21,7 @@ The problems to be solved are:
 
 --------------
 # Data Sourcing
-The data was gotten from @oyinbooke github page with respect to the 30 days of learning. Here is the link to the dataset https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data
+The data was gotten from @oyinbooke github page with respect to the 30 days of learning. Here is the link to the dataset ![](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data)
 It contains three difeerent data for confirmed cases, death cases and recovered cases
 
 
@@ -47,6 +47,13 @@ It was then visualized using the pivot chart in excel
 ![alt text](https://github.com/MariamAdekanye/COVID19-Data-Project/blob/main/2022-07-19%20(4).png)
 
 ![alt text](https://github.com/MariamAdekanye/COVID19-Data-Project/blob/main/2022-07-19%20(5).png)
+
+## Analysis of Death  cases
+![alt text](https://github.com/MariamAdekanye/COVID19-Data-Project/blob/main/2022-07-19%20(6).png)
+
+
+It was then visualized using the pivot chart in excel 
+![alt text](https://github.com/MariamAdekanye/COVID19-Data-Project/blob/main/2022-07-19%20(7).png)
 
 
 
