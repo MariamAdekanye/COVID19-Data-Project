@@ -38,7 +38,13 @@ It contains three difeerent data for confirmed cases, death cases and recovered 
 
 
 # Data Analysis and Visuals
-The data was analysed using the pivot table in excel. 
+The data was analysed using the pivot table in excel.
+## Analysis of Confirmed  cases
+![alt text](https://github.com/MariamAdekanye/COVID19-Data-Project/blob/main/2022-07-19%20(2).png)
+
+
+It was then visualized using the pivot chart in excel ![alt text}(https://github.com/MariamAdekanye/COVID19-Data-Project/blob/main/2022-07-19%20(4).png)
+![alt text](https://github.com/MariamAdekanye/COVID19-Data-Project/blob/main/2022-07-19%20(5).png)
 
 
 
