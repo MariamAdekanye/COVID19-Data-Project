@@ -43,7 +43,9 @@ The data was analysed using the pivot table in excel.
 ![alt text](https://github.com/MariamAdekanye/COVID19-Data-Project/blob/main/2022-07-19%20(2).png)
 
 
-It was then visualized using the pivot chart in excel ![alt text}(https://github.com/MariamAdekanye/COVID19-Data-Project/blob/main/2022-07-19%20(4).png)
+It was then visualized using the pivot chart in excel 
+![alt text](https://github.com/MariamAdekanye/COVID19-Data-Project/blob/main/2022-07-19%20(4).png)
+
 ![alt text](https://github.com/MariamAdekanye/COVID19-Data-Project/blob/main/2022-07-19%20(5).png)
 
 
